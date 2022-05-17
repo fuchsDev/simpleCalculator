@@ -1,6 +1,6 @@
 #Projeto de Calculadora em Python
 
-Este projeto tem como objetivo servir de aprendizado:
+Este projeto tem como objetivo aprender sobre:
 
 - estruturas de condições e repetições
 - utilizar funções
